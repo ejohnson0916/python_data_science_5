@@ -1,6 +1,6 @@
 # Write a Python Program to execute a string containing Python Code
 
-# function illustrating how exec() functions. 
+
 def exec_code():
     LOC = """ 
 def factorial(num): 
